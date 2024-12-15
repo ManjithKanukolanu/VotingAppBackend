@@ -35,7 +35,7 @@ This is a backend application for a voting system built with Node.js, Express.js
 
 ➡ API Endpoints
 
- ‣ Authentication
+ • Authentication
  
    · Sign Up
    
@@ -45,7 +45,7 @@ This is a backend application for a voting system built with Node.js, Express.js
    
        ‣ POST /login: Log in a user.
        
- ‣ Candidates
+ • Candidates
  
    · Get Candidates
    
@@ -63,7 +63,7 @@ This is a backend application for a voting system built with Node.js, Express.js
    
        ‣ DELETE /candidates/:id: Delete a candidate by ID (Admin only).
        
-‣ Voting
+• Voting
    · Get Vote Count
    
       ‣ GET /candidates/vote/count: Get the vote count for each candidate.
@@ -72,7 +72,7 @@ This is a backend application for a voting system built with Node.js, Express.js
    
       ‣ POST /candidates/vote/:id: Vote for a candidate (User only).
       
-‣ User Profile
+• User Profile
 
    · Get Profile
    
