@@ -3,11 +3,11 @@ https://votingapp-e209.onrender.com
 
 ➡ Voting Application - Backend
 
-This is a backend application for a voting system built with Node.js, Express.js, and MongoDB.
+‣ This is a backend application for a voting system built with Node.js, Express.js, and MongoDB.
 
-It enables users to vote for candidates, manage candidates, and authenticate securely using JWT (JSON Web Tokens). 
+‣ It enables users to vote for candidates, manage candidates, and authenticate securely using JWT (JSON Web Tokens). 
 
-The application includes roles for users and admins, with different access controls for each.
+‣ The application includes roles for users and admins, with different access controls for each.
 
 ➡ Features
 
