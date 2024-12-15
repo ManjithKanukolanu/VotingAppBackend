@@ -26,8 +26,11 @@ This is a backend application for a voting system built with Node.js, Express.js
 ➡ Technologies Used
 
 · Node.js: JavaScript runtime for building server-side applications.
+
 · Express.js: Web framework for Node.js to handle HTTP requests and routing.
+
 · MongoDB: NoSQL database for storing user and candidate data.
+
 · JSON Web Tokens (JWT): Secure user authentication with token-based login.
 
 ➡ API Endpoints
@@ -70,7 +73,11 @@ This is a backend application for a voting system built with Node.js, Express.js
       ‣ POST /candidates/vote/:id: Vote for a candidate (User only).
       
 ‣ User Profile
+
    · Get Profile
+   
       ‣ GET /users/profile: Retrieve user profile information.
+      
    · Change Password
+   
       ‣ PUT /users/profile/password: Change the user's password.
