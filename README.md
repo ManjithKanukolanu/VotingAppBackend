@@ -1,5 +1,3 @@
-➡ Live Link :
-https://votingapp-e209.onrender.com
 
 ➡ Voting Application - Backend
 
